@@ -1,7 +1,7 @@
 # Automated-Water-Plant
 Automated Water Plant utilizing Java and an Arduino (jSerialComm)
 
-### YouTube Video Link : https://youtu.be/lZ0GkuZE4t8
+### YouTube Video Link : https://youtube.com/shorts/lZ0GkuZE4t8
 
 
 ## Introduction
