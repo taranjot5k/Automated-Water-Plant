@@ -57,7 +57,7 @@ utilised
 
 ![Diagram of the system and its associated components](https://imgur.com/a/ezoSwZ4)
 
-Diagram of the system and its associated components
+
 
 
 
