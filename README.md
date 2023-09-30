@@ -55,7 +55,10 @@ utilised
 270 Ohm Resistor, 1x Breadboard)
 
 
-![Diagram of the system and its associated components](https://imgur.com/a/ezoSwZ4)
+![Diagram of the system and its associated components](![image](https://github.com/taranjot5k/Automated-Water-Plant/assets/125500381/0629f846-baac-4c1f-bf2c-b78a130f19d0)
+)
+
+Diagram of the system and its associated components
 
 
 
